@@ -10,4 +10,4 @@ def raise_num1_to_num2():
 
     print ("num1 raised to num 2 is", raised)
 
-raise_num1_to_num2
+raise_num1_to_num2()
