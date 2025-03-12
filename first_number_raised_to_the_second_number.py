@@ -1,4 +1,4 @@
-#Program 2
+#Program 6
 #Atienza,Rein Gabriel
 #BSCPE 1-2
 def raise_num1_to_num2():
