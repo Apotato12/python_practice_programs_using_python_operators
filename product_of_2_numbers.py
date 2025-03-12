@@ -1,4 +1,4 @@
-#Program 2
+#Program 4
 #Atienza,Rein Gabriel
 #BSCPE 1-2
 def multiply_the_number_with_each_other():
