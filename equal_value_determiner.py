@@ -1,3 +1,5 @@
-#Asks the user to input 2 numbers
-#the program checks if the numbers are not equal
-#If the numbers are equal Print Num1 and Num2 are equal 
+num1 = float(input("Enter the first number: "))
+num2 = float(input("Enter the second number: "))
+
+if num1 == num2:
+    print(str(num1) + " and " + str(num2) + " are equal.")
