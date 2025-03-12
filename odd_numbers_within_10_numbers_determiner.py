@@ -12,6 +12,6 @@ def Odd_numbers_within_10():
         if number % 2 != 0:
             odd_numbers += 1 
 
-    print("The number of odd numbers entered is:", odd_numbers2)
+    print("The number of odd numbers entered is:", odd_numbers)
 
 Odd_numbers_within_10()
