@@ -1,3 +1,6 @@
-#Asks the user to input 2 numbers
-#the program then multiplies the 2 numbers with each other
-#after multiplying the 2 numbers the program then prints the product of the 2 numbers
+num1 = float(input("Enter the first number: "))
+num2 = float(input("Enter the second number: "))
+ 
+product = num1 * num2
+ 
+print("the product of 2 numbers is:", product)
