@@ -1,4 +1,4 @@
-#Program 2
+#Program 3
 #Atienza,Rein Gabriel
 #BSCPE 1-2
 def adds_the_2_numbers_and_extracts_their_sum():
