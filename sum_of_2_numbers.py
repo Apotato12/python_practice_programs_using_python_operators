@@ -1,3 +1,6 @@
-#Asks the user to input 2 numbers
-#the program then adds the 2 numbers with each other
-#after adding the 2 numbers the program then prints the sum of the 2 numbers 
+num1 = float(input("Enter the first number: "))
+num2 = float(input("Enter the second number: "))
+
+sum = num1 + num2
+
+print("the sum of 2 numbers is:", sum)
