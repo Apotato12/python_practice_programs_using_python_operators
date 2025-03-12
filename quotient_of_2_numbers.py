@@ -1,4 +1,4 @@
-#Program 2
+#Program 5
 #Atienza,Rein Gabriel
 #BSCPE 1-2
 def quotient_of_the_2_numbers():
