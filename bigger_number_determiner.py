@@ -1,3 +1,4 @@
-#User Must Input 2 Numbers
-#After inputting 2 numbers the program must determine which number is the bigger number
-#The program then must print the bigger number
+num1 = float(input("Enter first number: ")) 
+num2 = float(input("Enter second number: "))
+
+print(max(num1, num2),"is the larger number" )
