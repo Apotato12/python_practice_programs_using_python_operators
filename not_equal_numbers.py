@@ -1,4 +1,7 @@
-#asks the user to input 2 numbers
-#determine if the numbers are of equal value or not
-#if the values are equal print "that value is equal"
-#if the values are not equal print "num1 and num2 are not equal"
+num1 = float(input("Enter the first number: "))
+num2 = float(input("Enter the second number: "))
+
+if num1 != num2:
+    print ("num1 and num2 are not equal")
+else:
+    print("that value is equal")
