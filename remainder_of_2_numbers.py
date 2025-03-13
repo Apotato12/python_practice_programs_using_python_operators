@@ -1,4 +1,6 @@
-#ask the user to input 2 numbers
-#divide num1 with num2
-#get the remainder
-#print the remainder
+num1 = float(input("Enter the first number: "))
+num2 = float(input("Enter the second number: "))
+
+remainder = num1 % num2
+
+print ("the remainder is:", remainder)
