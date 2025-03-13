@@ -1,4 +1,15 @@
-#ask the user to input numbers
-#create a set to see store the numbers
-#check the set to see which is the lowest number
-#print the lowest number
+lowest_numbers = set()
+
+while True:
+        user_input = input("Enter a number (or type something invalid to stop): ")
+        try:
+            num = float(user_input)
+            lowest_numbers.add(num)
+        except ValueError:
+            print("Invalid input. Exiting the program.")
+            break
+if lowest_numbers:
+        lowest_number = min(lowest_numbers) 
+        print("The lowest number entered is:", lowest_number)
+else:
+        print("No valid numbers were entered.")
