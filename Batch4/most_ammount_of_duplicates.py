@@ -1,4 +1,4 @@
-# Program 2 Batch 2
+# Program 2 Batch 4
 # Atienza, Rein Gabriel
 # BSCPE 1-2
 

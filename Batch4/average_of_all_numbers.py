@@ -1,4 +1,4 @@
-# Program to calculate the average of user-input numbers
+# Program 5 Batch 4
 # Atienza, Rein Gabriel
 # BSCPE 1-2
 
