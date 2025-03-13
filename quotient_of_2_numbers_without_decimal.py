@@ -1,4 +1,6 @@
-#ask the user to input 2 numbers
-#Divide num 1 with num 2 
-#change the result to int
-#print the result
+num1 = float(input("Enter the first number: "))
+num2 = float(input("Enter the second number: "))
+
+quotient = num1 / num2
+
+print("the quotient of 2 numbers is:",int(quotient))
