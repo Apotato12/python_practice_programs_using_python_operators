@@ -1,5 +1,15 @@
-#ask the user to input 10 numbers
-#create a set 
-#check if a inputted number is already present in the set
-#if yes print that number
-#if no ignore
+numbers = set()
+duplicates = set()
+
+print("Enter 10 numbers:")
+for i in range(10):
+     num = float(input("Number " + str(i + 1) + ": "))
+     
+     if num in numbers:
+            duplicates.add(num)
+     else:
+            numbers.add(num)
+
+print("Numbers with duplicates:")
+for num in duplicates:
+    print(num)
