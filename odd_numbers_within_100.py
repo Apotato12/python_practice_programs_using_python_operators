@@ -1,3 +1,5 @@
-for number in range(101):
+number = 0  
+while number <= 100:
     if number % 2 != 0:
-        print (number)
+        print(number)
+    number += 1
