@@ -1,4 +1,3 @@
-#get 0-100
-#determine which ones are odd
-#check which numbers are odd
-#print only the odd numbers
+for number in range(101):
+    if number % 2 != 0:
+        print (number)
